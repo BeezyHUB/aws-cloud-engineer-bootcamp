@@ -1,7 +1,7 @@
 # Day 4 — AWS High Availability Architecture
 
 ## Project Overview
-
+![AWS High Availability Architecture](Diagrams/AWS%20High-Availability%20Architecture%20Infographic.png)
 Designed a highly available AWS web application architecture using an Application Load Balancer (ALB), EC2 instances, a Target Group, and an Auto Scaling Group (ASG).
 
 The objective was to understand how AWS distributes incoming traffic, monitors server health, and maintains application availability when infrastructure fails.
