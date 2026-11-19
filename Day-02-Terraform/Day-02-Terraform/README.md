@@ -42,7 +42,7 @@ output "project_name" {
 
 ## Commands Practiced
 
-**1. Terraform Plan**
+### 1. Terraform Plan
 
 ```powershell
 terraform plan
@@ -50,11 +50,13 @@ terraform plan
 
 Reviewed Terraform's proposed changes before applying the configuration.
 
-Initial result:
+**Initial result:**
 
-`Plan: 1 to add, 0 to change, 0 to destroy.`
+```text
+Plan: 1 to add, 0 to change, 0 to destroy.
+```
 
-**2. Terraform Apply**
+### 2. Terraform Apply
 
 ```powershell
 terraform apply
@@ -62,21 +64,27 @@ terraform apply
 
 Approved the configuration changes.
 
-Result:
+**Result:**
 
-`Apply complete! Resources: 1 added, 0 changed, 0 destroyed.`
+```text
+Apply complete! Resources: 1 added, 0 changed, 0 destroyed.
+```
 
-Output:
+**Output:**
 
-`project_name = "aws-bootcamp"`
+```text
+project_name = "aws-bootcamp"
+```
 
-**3. Verify Terraform State**
+### 3. Verify Terraform State
 
 Ran Terraform plan again after applying the configuration.
 
-Result:
+**Result:**
 
-`No changes. Your infrastructure matches the configuration.`
+```text
+No changes. Your infrastructure matches the configuration.
+```
 
 This demonstrated how Terraform detects whether its managed resources match the configuration.
 
@@ -86,7 +94,7 @@ This demonstrated how Terraform detects whether its managed resources match the 
 - **Terraform Plan:** Previewing proposed changes before applying them.
 - **Terraform Apply:** Applying the desired configuration.
 - **Terraform State:** Tracking resources managed by Terraform.
-- **Idempotency:** Reapplying an unchanged configuration does not require additional changes.
+- **Idempotency:** An unchanged configuration produces no additional planned changes.
 
 ## Project Scope
 
