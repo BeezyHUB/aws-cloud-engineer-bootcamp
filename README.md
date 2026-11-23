@@ -92,6 +92,7 @@ Explored AWS EC2 configuration, including VPC networking, security groups, EBS s
 
 [View Day 8 Project](day-08-ec2-web-server/README.md)
 
+- [Day 9 — Amazon S3 & Static Website Hosting](day-09-s3-static-website/README.md) — Configured S3 object storage, encryption, static website hosting, and public access security controls.
 
 ## 💻 Tools and Technologies
 
