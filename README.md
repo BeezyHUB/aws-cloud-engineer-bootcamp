@@ -72,6 +72,27 @@ Created a Bash script (`health-check.sh`) to perform basic system checks.
 
 **Skills:** Linux CLI, Bash scripting, permissions, logs, system monitoring.
 
+
+### Day 7 — AWS Portfolio Review & Documentation
+
+Reviewed and organized AWS Cloud Engineer bootcamp projects from Days 1–6, documenting cloud infrastructure designs, Linux administration exercises, Terraform configurations, and networking concepts.
+
+Created a centralized GitHub portfolio README with project descriptions, technical skills, and links to completed projects.
+
+**Skills:** GitHub, Technical Documentation, AWS Architecture, Linux, Terraform, Infrastructure as Code, Portfolio Management
+
+**Outcome:** Organized six foundational cloud engineering projects into a structured GitHub portfolio, improving project accessibility and technical documentation.
+
+
+### Day 8 — EC2 Configuration & Linux Web Server
+
+Explored AWS EC2 configuration, including VPC networking, security groups, EBS storage, and encryption. Built and troubleshot a working local Linux HTTP server using Python and HTML.
+
+**Skills:** AWS EC2, VPC, Security Groups, EBS, Linux, Python, HTTP, Troubleshooting
+
+[View Day 8 Project](day-08-ec2-web-server/README.md)
+
+
 ## 💻 Tools and Technologies
 
 AWS | Terraform | Ubuntu Linux | Bash | GitHub | Windows PowerShell | HTML
