@@ -92,7 +92,24 @@ Explored AWS EC2 configuration, including VPC networking, security groups, EBS s
 
 [View Day 8 Project](day-08-ec2-web-server/README.md)
 
-- [Day 9 — Amazon S3 & Static Website Hosting](day-09-s3-static-website/README.md) — Configured S3 object storage, encryption, static website hosting, and public access security controls.
+
+### Day 9 — Amazon S3 & Static Website Hosting
+
+Configured Amazon S3 object storage, server-side encryption, static website hosting, and public access security controls. Investigated Access Denied and 403 Forbidden responses while maintaining secure bucket configurations.
+
+**Skills:** Amazon S3, Object Storage, Static Website Hosting, SSE-S3 Encryption, Public Access Controls, AWS Troubleshooting.
+
+[View Day 9 Project](day-09-s3-static-website/README.md)
+
+
+### Day 10 — AWS CloudWatch Monitoring & Troubleshooting
+
+Implemented AWS infrastructure monitoring, configured CloudWatch alarms, diagnosed incorrect metric and threshold configurations, and successfully validated alarm recovery.
+
+**Skills:** Amazon CloudWatch, S3 Metrics, Alarm Configuration, Root Cause Analysis, Infrastructure Troubleshooting.
+
+[View Project](./day-10-cloudwatch-monitoring)
+
 
 ## 💻 Tools and Technologies
 
